@@ -42,3 +42,9 @@ Each notebook focuses on one concept and includes:
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+## How to Use
+
+1. Clone this repository:
+
+```bash
+git clone [https://github.com/your-username/machine-learning-short-codes.git](https://github.com/your-username/machine-learning-short-codes.git)
